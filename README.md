@@ -1,5 +1,4 @@
 # Smart-Image-Tagging-using-Pretrained-models
- Smart Image Tagging is a model built to increase user experience and actionable intelligence.We create a model which classifies image into food,people,ambience etc.
 # What Is Smart Image Tagging?
 Image Tagging software automatically identifies and describes objects within images. These objects include locations,ambience, people, food. Image recognition is developed through numerous  training steps, which give the  software photos and teach it to understand patterns using machine learning.
 # Transfer Learning technique
